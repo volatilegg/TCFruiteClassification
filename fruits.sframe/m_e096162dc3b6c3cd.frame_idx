@@ -1,0 +1,13 @@
+[sframe]
+version=0
+num_segments=0
+num_columns=3
+nrows=1450
+[column_names]
+0000=path
+0001=image
+0002=fruit
+[column_files]
+0000=m_e096162dc3b6c3cd.sidx:0
+0001=m_e096162dc3b6c3cd.sidx:1
+0002=m_e096162dc3b6c3cd.sidx:2
